@@ -4,7 +4,7 @@ Hi 👋 My name is Graham Morby
 Senior Developer
 ----------------
 
-I have been coding for some 20 years, I have worked with Javascript, HTML, CSS, SASS, PHP, and now Python. I have just started my own software house Enceladus Digital LTD
+I have been coding for some 20 years, I have worked with Javascript, HTML, CSS, SASS, PHP, and now Python.
 
 * 🌍  I'm based in Portsmouth United Kingdom
 * 🖥️  See my portfolio at [grahammorby.dev](http://www.grahammorby.dev)
