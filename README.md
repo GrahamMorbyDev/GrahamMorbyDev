@@ -1,4 +1,4 @@
-Hi 👋 My name is Graham Morby
+Hi 👋 My name is Graham Patrick
 =============================
 
 Senior Developer
