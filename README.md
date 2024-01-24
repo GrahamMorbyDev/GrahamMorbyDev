@@ -6,15 +6,6 @@ Senior Developer
 
 I have been coding for some 20 years, I have worked with Javascript, HTML, CSS, SASS, PHP, and now Python.
 
-* 🌍  I'm based in Portsmouth United Kingdom
-* 🖥️  See my portfolio at [grahammorby.dev](http://www.grahammorby.dev)
-* ✉️  You can contact me at [grahammorbydev@gmail.com](mailto:grahammorbydev@gmail.com)
-* 🧠  I'm learning Django
-* ⚡  I used to be a country music singer songwriter called phoenix morby - Check out spotify
-
-<a href="https://www.twitter.com/GrahammorbyDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/GrahammorbyDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
@@ -36,11 +27,6 @@ src="https://img.shields.io/twitter/follow/GrahammorbyDev?logo=twitter&style=for
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/grahammorby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/GrahamMorbyDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/💻-graham-morby-19634a91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GrahammorbyDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
