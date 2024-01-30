@@ -4,7 +4,7 @@ Hi 👋 My name is Graham Patrick
 Senior Developer
 ----------------
 
-I have been coding for some 20 years, I have worked with Javascript, HTML, CSS, SASS, PHP, and now Python.
+I have been a professional coder for two decades, and I have gained extensive experience in various web development technologies. I started with Javascript, HTML, and CSS, which are the core languages for creating dynamic and interactive websites. I also learned SASS, which is a preprocessor that makes writing CSS easier and more efficient. I then moved on to PHP, which is a server-side scripting language that allows me to create dynamic web pages and applications. Recently, I have been exploring Python, which is a versatile and powerful programming language that can be used for data analysis, machine learning, web development, and more. I enjoy learning new skills and challenging myself with different projects.
 
 
 ### Skills
